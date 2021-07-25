@@ -8,7 +8,7 @@ the usual functions : cos(), sin(), tan(), ln(), abs() := abselut value
 
 operations : "+"addition, "-"subtraction, "/"division, "*"multiplication, "** or ^"power
 
-zoom in/out, movement ![up_down_key](https://user-images.githubusercontent.com/38382073/126916106-d197eef9-9688-490e-b4f2-31f93bab7135.jpg)
+zoom in/out, movement ![up_down_key](https://user-images.githubusercontent.com/38382073/126916165-f59ac710-98ea-4d9a-a0fc-63efd2f92065.jpg)
 
 
 It can detect the input error
