@@ -11,6 +11,8 @@ operations : "+"addition, "-"subtraction, "/"division, "*"multiplication, "** or
 zoom in/out, movement 
 
 ![button](https://user-images.githubusercontent.com/38382073/126916173-4869f5e1-e147-420b-9d40-b5c57468a6e7.PNG)
+![scroll](https://user-images.githubusercontent.com/38382073/126916292-ad42ba75-020c-4430-b017-2b15fa8632d0.PNG)
+
 
 It can detect the input error
 
