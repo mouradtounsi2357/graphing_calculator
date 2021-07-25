@@ -9,3 +9,5 @@ the usual functions : cos(), sin(), tan(), ln(), abs() := abselut value
 operations : "+"addition, "-"subtraction, "/"division, "*"multiplication, "** or ^"power
 
 It can detect the input error
+
+https://user-images.githubusercontent.com/38382073/126915449-0f8ebbfa-8ed4-46a2-b537-639b31e89ceb.mp4
