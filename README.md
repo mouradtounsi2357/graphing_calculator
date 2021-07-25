@@ -11,3 +11,4 @@ operations : "+"addition, "-"subtraction, "/"division, "*"multiplication, "** or
 It can detect the input error
 
 
+https://user-images.githubusercontent.com/38382073/126915596-cf01dd4f-dca1-4dbd-ab24-e0afded6d5be.mp4
